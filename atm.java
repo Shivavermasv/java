@@ -11,6 +11,7 @@ class atm{
         }
         else{
             System.out.println("invalid transaction");
+            System.out.println("aman");
         }
     }
 }
